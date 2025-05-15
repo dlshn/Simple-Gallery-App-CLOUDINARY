@@ -1,0 +1,2 @@
+# Simple Gallery App CLOUDINARY
+
